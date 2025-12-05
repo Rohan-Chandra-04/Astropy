@@ -1,0 +1,12 @@
+{"timestamp": "12:11:44.874", "elapsed_s": 4, "frame": 256, "type": "asteroid hit"}
+{"timestamp": "12:11:44.874", "elapsed_s": 4, "frame": 256, "type": "asteroid split"}
+{"timestamp": "12:11:46.038", "elapsed_s": 5, "frame": 327, "type": "asteroid hit"}
+{"timestamp": "12:11:46.039", "elapsed_s": 5, "frame": 327, "type": "asteroid split"}
+{"timestamp": "12:11:46.333", "elapsed_s": 5, "frame": 345, "type": "asteroid hit"}
+{"timestamp": "12:11:53.638", "elapsed_s": 13, "frame": 787, "type": "asteroid hit"}
+{"timestamp": "12:11:53.638", "elapsed_s": 13, "frame": 787, "type": "asteroid split"}
+{"timestamp": "12:11:53.769", "elapsed_s": 13, "frame": 795, "type": "asteroid hit"}
+{"timestamp": "12:11:53.770", "elapsed_s": 13, "frame": 795, "type": "asteroid split"}
+{"timestamp": "12:11:54.505", "elapsed_s": 14, "frame": 840, "type": "asteroid hit"}
+{"timestamp": "12:11:54.506", "elapsed_s": 14, "frame": 840, "type": "asteroid split"}
+{"timestamp": "12:11:54.920", "elapsed_s": 14, "frame": 865, "type": "player hit"}
